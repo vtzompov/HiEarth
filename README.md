@@ -1,2 +1,1 @@
-# HiEarth
-HelloWorld
+Wellcome planet Earth!
